@@ -1,4 +1,0 @@
-PIP
-fitz
-PyMuPDF
-azure-keyvault-secrets
