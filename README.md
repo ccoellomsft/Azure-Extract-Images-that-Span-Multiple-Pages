@@ -1,4 +1,4 @@
-# Extract PDF Images That SPan Across Multiple Pages
+# Extract PDF Images That Span Across Multiple Pages
 
 This notebook contains a series of cells to process images extracted from PDF files. The notebook performs tasks such as installing dependencies, extracting and combining images, and removing duplicate images both locally and in an Azure storage account.
 
